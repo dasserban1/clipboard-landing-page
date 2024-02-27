@@ -9,7 +9,15 @@ html,body{
 h1, h2, h3{
     color: hsl(210, 10%, 33%);
 }
-
+h1{
+    font-size: 3rem;
+}
+h2{
+    font-size: 2rem;
+}
+h3{
+    font-size: 1.5rem;
+}
 .hero-section{
     margin: 0;
     text-align: center;
